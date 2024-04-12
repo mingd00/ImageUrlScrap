@@ -1,0 +1,1851 @@
+[
+    {
+        "university": "영남대",
+        "lat": 35.8264595,
+        "lng": 128.754132,
+        "location": "대한민국 경상북도 경산시 대학로 280",
+        "home_url": "https://www.yu.ac.kr/main/index.do",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2RycGhixeJFgp3n-XKjxcQVKuL8oV9-i6Mt_UsqCwA&s"
+    },
+    {
+        "university": "경주대",
+        "lat": 35.8298508,
+        "lng": 129.1619766,
+        "location": "대한민국 경상북도 경주시 효현동 태종로 188 KR",
+        "home_url": "https://www.gu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDvXOZqXZsGvk6PqPwL0d9QIMPrXg9Z5944kwKFJHag&s"
+    },
+    {
+        "university": "삼육대",
+        "lat": 37.6435824,
+        "lng": 127.1063459,
+        "location": "대한민국 서울특별시 노원구 화랑로 815",
+        "home_url": "https://www.syu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VS9gNex5EMdxvHMzqU6MTJgtEJaHXnhnLj52N9kPxQ&s"
+    },
+    {
+        "university": "경운대",
+        "lat": 36.1691464,
+        "lng": 128.4679212,
+        "location": "대한민국 경상북도 구미시 산동면 강동로 730",
+        "home_url": "https://www.ikw.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVVPVBYk09oomVXan-JUEKEYSYkg3Zghzu7oG3Y0q_w&s"
+        
+    },
+    {
+        "university": "한신대",
+        "lat": 37.1933281,
+        "lng": 127.0225987,
+        "location": "대한민국 경기도 오산시 한신대길 137",
+        "home_url": "https://www.hs.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdhRgMop2hctT89LtWvGa0P5yHt5zii3sqyqvacoHoTg&s"
+    },
+    {
+        "university": "영산대(양산)",
+        "lat": 35.428846,
+        "lng": 129.148227,
+        "location": "대한민국 경상남도 양산시 주남로 288",
+        "home_url": "https://www.ysu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzbcEQ8bnCl-6H_zPxyDFkJTeMZ5R6lCPhr4prZrDvAg&s"
+    },
+    {
+        "university": "한국전통문화대",
+        "lat": 35.907757,
+        "lng": 127.766922,
+        "location": "대한민국",
+        "home_url": "https://www.nuch.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDQBujH47-MYTHp2OLxnkSRVFDy85NkhL4sf4A0Gi5w&s"
+    },
+    {
+        "university": "한국외대(글로벌)",
+        "lat": 37.3392476,
+        "lng": 127.2625483,
+        "location": "대한민국 경기도 용인시 처인구 모현읍 외대로 81",
+        "home_url": "https://www.hufs.ac.kr/hufs/11163/subview.do",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVBLn67QkTFJtTABVLWYy-YFNFm2CReugIXaMYotZooQ&s"
+    },
+    {
+        "university": "광주교대",
+        "lat": 35.1646779,
+        "lng": 126.9267856,
+        "location": "대한민국 광주광역시 북구 필문대로 55",
+        "home_url": "https://portal.gnue.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsSrY0YkVz-mo3u5K6Xdh0wlBA1neGsVnAdHaE9oynLw&s"
+    },
+    {
+        "university": "광주여대",
+        "lat": 35.1636755,
+        "lng": 126.7974994,
+        "location": "대한민국 광주광역시 광산구 광주여대길 40",
+        "home_url": "https://www.kwu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLr1SnKM-nlxIA1Kjh0e3aEHJiwpW-qe7xABO2PY-p-A&s"
+    },
+    {
+        "university": "동양대(동두천)",
+        "lat": 37.9333158,
+        "lng": 127.0549831,
+        "location": "대한민국 경기도 동두천시 동두천동 289-185",
+        "home_url": "https://bsc.dyu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMD-1c04s0OpdnGTib62irQXwv9nSnblT5PpVJiQ-kQ&s"
+    },
+    {
+        "university": "서울여대",
+        "lat": 37.6281126,
+        "lng": 127.0904568,
+        "location": "대한민국 서울특별시 노원구 화랑로 621",
+        "home_url": "http://www.swu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwy4ffadxxVVIgQKG4jnZokJ8DN8bY-i_KjPvjD3_WEw&s"
+    },
+    {
+        "university": "영산대(부산)",
+        "lat": 35.223885,
+        "lng": 129.1569793,
+        "location": "대한민국 부산광역시 해운대구 반송순환로 142",
+        "home_url": "https://www.ysu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSJJ63ez3xAk5ADV7aUpayyPe1A3YN14FA8PSIsdK4&s"
+    },
+    {
+        "university": "성공회대",
+        "lat": 37.4877355,
+        "lng": 126.825157,
+        "location": "대한민국 서울특별시 구로구 연동로 320",
+        "home_url": "https://www.skhu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9u8vO942dgGr8YxVCf9jS5N0ebnfjO4gFXBzdCx12wA&s"
+    },
+    {
+        "university": "초당대",
+        "lat": 34.9778841,
+        "lng": 126.4728807,
+        "location": "대한민국 전라남도 무안군 무안읍 무안로 380",
+        "home_url": "https://www.cdu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCbywsrNBrMwMFAWbdcOHOVQayRGhDjNRzSIvw5eqa3g&s"
+    },
+    {
+        "university": "신라대",
+        "lat": 35.16792,
+        "lng": 128.9970255,
+        "location": "대한민국 부산광역시 사상구 백양대로700번길 140",
+        "home_url": "https://www.silla.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KAP96i9pHg8RCEUjTv6BubbO3uu_9_97CbJj8X-uUw&s"
+    },
+    {
+        "university": "상지대",
+        "lat": 37.3706973,
+        "lng": 127.9280728,
+        "location": "대한민국 강원도 원주시 상지대길 83",
+        "home_url": "https://www.sangji.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt2Zum5CUoO6tK-xuvukuYM9lDhPCUOb6y25BegU8s2Q&s"
+    },
+    {
+        "university": "총신대",
+        "lat": 37.4886232,
+        "lng": 126.9668169,
+        "location": "대한민국 서울특별시 동작구 사당로 143",
+        "home_url": "https://www.csu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrXZZlAFD9Lu_VSOVcwSAkfXKlRyQJjBGJbkzMCkjiA&s"
+    },
+    {
+        "university": "서울대",
+        "lat": 37.4593505,
+        "lng": 126.9511364,
+        "location": "대한민국 서울특별시 관악구 관악로 1",
+        "home_url": "https://www.snu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_DbenXjKZz07moRcseJg5ZphpgYoIwMrv_L_-kiQgQw&s"
+    },
+    {
+        "university": "한라대",
+        "lat": 37.302771,
+        "lng": 127.9077884,
+        "location": "대한민국 강원도 원주시 흥업면 한라대길 28",
+        "home_url": "https://www.halla.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3akaK6_hkT5FjubTl8t7Op9bdVmnqOlhHGrLChiBjKw&s"
+    },
+    {
+        "university": "한밭대",
+        "lat": 36.3509246,
+        "lng": 127.3010886,
+        "location": "대한민국 대전광역시 유성구 동서대로 125",
+        "home_url": "https://www.hanbat.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfBL-l5lCxBQBJVB46rV7iYS_O9gx8_U3tNmEgIgs&s"
+    },
+    {
+        "university": "청운대(홍성)",
+        "lat": 36.5811832,
+        "lng": 126.662175,
+        "location": "대한민국 충청남도 홍성군 홍성읍 대학길 25",
+        "home_url": "http://www.chungwoon.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY26YfWAGTVLUvQHC4T7zzPrlSX1qQg2TIFCSQX98ILg&s"
+    },
+    {
+        "university": "덕성여대",
+        "lat": 37.6511988,
+        "lng": 127.0161604,
+        "location": "대한민국 서울특별시 도봉구 삼양로144길 33",
+        "home_url": "https://www.duksung.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfxhF9bdZkNbasOVVlu3CGAUqQcdK1yE96TZ3W4sof&s"
+    },
+    {
+        "university": "차의과학대",
+        "lat": 37.856752,
+        "lng": 127.137807,
+        "location": "대한민국 경기도 포천시 동교동 해룡로 120",
+        "home_url": "https://www.cha.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyOo8mWjZxcecRihsO-1dy0XZeCwG0eL5pct-i55_RUQ&s"
+    },
+    {
+        "university": "한국교통대(충주)",
+        "lat": 36.969836,
+        "lng": 127.8717685,
+        "location": "대한민국 충청북도 충주시 대소원면 대학로 50",
+        "home_url": "https://www.ut.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZQZaiblbRD03lODshOT2ztjDVGk4PeqekpWHysdZbqQ&s"
+    },
+    {
+        "university": "가톨릭대(성심)",
+        "lat": 37.4865549,
+        "lng": 126.8018828,
+        "location": "대한민국 경기도 부천시 원미구 지봉로 43",
+        "home_url": "https://www.catholic.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxTT6ADz3vYhkcHBCTNf-L02unljlV9hRxoHUMPSeJFA&s"
+    },
+    {
+        "university": "중앙대(안성)",
+        "lat": 37.03503300000001,
+        "lng": 127.3027301,
+        "location": "대한민국 경기도 안성시",
+        "home_url": "https://www.cau.ac.kr/vr2020/anseong/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlye4nSQzosupTYD6pXmKgG0MagH4EIHovSqjATzjsIQ&s"
+    },
+    {
+        "university": "한국성서대",
+        "lat": 37.6486885,
+        "lng": 127.0642073,
+        "location": "대한민국 서울특별시 노원구 동일로214길 32",
+        "home_url": "https://www.bible.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0DDvbzb99FSbmqOt3tbMJ3--aHLM6lAqLIozYGVgjw&s"
+    },
+    {
+        "university": "서울시립대",
+        "lat": 37.5838657,
+        "lng": 127.0587771,
+        "location": "대한민국 서울특별시 동대문구 서울시립대로 163",
+        "home_url": "https://www.uos.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBX3N6RM5hFjPCXCSbKV2ZuYrh_LAkZiIJ0gT0fO9F5w&s"
+    },
+    {
+        "university": "을지대(성남)",
+        "lat": 37.4604593,
+        "lng": 127.1649651,
+        "location": "대한민국 경기도 성남시 수정구 산성대로 553",
+        "home_url": "https://www.eulji.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVeMsmk60J4AV0yDs-pzeUXtZ7tim1a-DUgFuoiL8Tlg&s"
+    },
+    {
+        "university": "경인교대",
+        "lat": 37.5373352,
+        "lng": 126.7170858,
+        "location": "대한민국 인천광역시 계양구 계산1동 계산로 62",
+        "home_url": "https://lms.ginue.ac.kr/?epTicket=LOG",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVBrLbTZX5o4B03P27MLjPHb6hQGQdYhL2PEcNTvIfA&s"
+    },
+    {
+        "university": "신한대(의정부)",
+        "lat": 37.7095512,
+        "lng": 127.046037,
+        "location": "대한민국 경기도 의정부시 호암로 95",
+        "home_url": "https://www.shinhan.ac.kr/kr/230/subview.do",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTidQ7aFDHT-DNHAXjs9KDViQRpQTAUqSSjuFN6mq1bsg&s"
+    },
+    {
+        "university": "서울장신대",
+        "lat": 37.4101605,
+        "lng": 127.2473156,
+        "location": "대한민국 경기도 광주시 경안로 145 KR",
+        "home_url": "https://www.sjs.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZD-2nPK47npK3p0Y-mnpQSpMeMwbIFJYyYB0V7pUxBg&s"
+    },
+    {
+        "university": "신한대(동두천)",
+        "lat": 37.916543,
+        "lng": 127.0779171,
+        "location": "대한민국 경기도 동두천시",
+        "home_url": "https://www.shinhan.ac.kr/kr/4743/subview.do",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUxtH2mdLbup4YVQoR_6oDUlWSne6z24_uERx6j2PAVQ&s"
+    },
+    {
+        "university": "육군사관학교",
+        "lat": 37.6238188,
+        "lng": 127.0988783,
+        "location": "대한민국 서울특별시 노원구 화랑로 574",
+        "home_url": "https://www.kma.ac.kr:461/",
+        "logo": "https://news.nateimg.co.kr/orgImg/fn/2023/02/13/202302131657082961_l.jpg"
+    },
+    {
+        "university": "금오공과대",
+        "lat": 36.1460625,
+        "lng": 128.3934375,
+        "location": "대한민국 경상북도 구미시 대학로 61",
+        "home_url": "https://www.kumoh.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKQyr5lshH5tcwBloybk3H14-g7rLQdYZE9P1psCJIbw&s"
+    },
+    {
+        "university": "김천대",
+        "lat": 36.1397984,
+        "lng": 128.0786254,
+        "location": "대한민국 경상북도 김천시 대학로 214",
+        "home_url": "https://www.gimcheon.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Fj84RB2OkiSnPr4pEwmi1nQtUqWjX7mCT1LPs6Cs3w&s"
+    },
+    {
+        "university": "가톨릭대(성신)",
+        "lat": 37.5857654,
+        "lng": 127.0048121,
+        "location": "대한민국 서울특별시 종로구 창경궁로 296-12",
+        "home_url": "https://songsin.catholic.ac.kr/site/songsin/main.do",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxTT6ADz3vYhkcHBCTNf-L02unljlV9hRxoHUMPSeJFA&s"
+    },
+    {
+        "university": "인제대(김해)",
+        "lat": 35.2481236,
+        "lng": 128.9027787,
+        "location": "대한민국 경상남도 김해시 인제로 197",
+        "home_url": "https://www.inje.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoehtobxczVx0kVgv_LAGxW0H8Jeg39VJlqyeqOBLZUA&s"
+    },
+    {
+        "university": "중부대(고양)",
+        "lat": 37.713203,
+        "lng": 126.8900751,
+        "location": "대한민국 경기도 고양시 덕양구 대자동 동헌로 305",
+        "home_url": "https://www.joongbu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEvgly-zvsNTdFvjy5XcJFohfJKCyC2VIUeU-80RnMQ&s"
+    },
+    {
+        "university": "중앙대(서울)",
+        "lat": 37.5050881,
+        "lng": 126.9571012,
+        "location": "대한민국 서울특별시 동작구 흑석로 84",
+        "home_url": "https://www.cau.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLgBe0CLw3_8eeMQyCYH5YXfDCIbn4mkvr6vtxjqEvA&s"
+    },
+    {
+        "university": "진주교대",
+        "lat": 35.1863055,
+        "lng": 128.0671967,
+        "location": "대한민국 경상남도 진주시 신안동 진양호로369번길 3",
+        "home_url": "https://www.cue.ac.kr/kor/Main.do",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgQPqOLIiP-vjHF-jcoIzthMh843bjaWJgr4mw71KECw&s"
+    },
+    {
+        "university": "한국기술교육대",
+        "lat": 36.763718,
+        "lng": 127.2819405,
+        "location": "대한민국 충청남도 천안시 동남구 병천면 충절로 1600",
+        "home_url": "https://www.koreatech.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXKtu6AKKO4J83HspgcirjKlQcOOi6GdFEFWIddy2wWw&s"
+    },
+    {
+        "university": "강원대(삼척)",
+        "lat": 37.4538118,
+        "lng": 129.1623725,
+        "location": "대한민국 강원도 삼척시 중앙로",
+        "home_url": "https://www.kangwon.ac.kr/www/contents.do?key=271",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfJYz0WPBG1CHeyipMLEp7FMSY6G_YDmdPe3Itk_8usw&s"
+    },
+    {
+        "university": "대구대",
+        "lat": 35.9021687,
+        "lng": 128.849098,
+        "location": "대한민국 경상북도 경산시 진량읍 대구대로 201",
+        "home_url": "https://www.daegu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBLID0u5ydGNoAozUtqAZU_S_dU_4nOc7NZ9K2IYxO6A&s"
+    },
+    {
+        "university": "공군사관학교",
+        "lat": 36.5795784,
+        "lng": 127.5279316,
+        "location": "대한민국 충청북도 청주시 상당구 남일면 단재로 635",
+        "home_url": "http://www.afa.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLaGa8Cnbm2luzcsaQ7QwpchkGJ_6VgZTXaYWVaRlm2w&s"
+    },
+    {
+        "university": "전남대(광주)",
+        "lat": 35.1755091,
+        "lng": 126.9071166,
+        "location": "대한민국 광주광역시 북구 용봉로 77",
+        "home_url": "http://www.chonnam.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Qqn-e9Oswb5Pck1l06qz4jOiEwERNCPeTS3jKbCBJQ&s"
+    },
+    {
+        "university": "국군간호사관학교",
+        "lat": 36.3996381,
+        "lng": 127.3550991,
+        "location": "대한민국 대전광역시 유성구 자운로 90",
+        "home_url": "http://www.afna.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7fFodEv_lezRX-jWhD7I5aAV2KkMeNA1Tz3UNyS4yg&s"
+    },
+    {
+        "university": "명지대(용인)",
+        "lat": 37.2214872,
+        "lng": 127.2218612,
+        "location": "대한민국 경기도 용인시",
+        "home_url": "https://www.mju.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03X6OtIjaM_yLwdzGhxselBBBbQooOws0Yy2oxXIXsw&s"
+    },
+    {
+        "university": "한성대",
+        "lat": 37.58284829999999,
+        "lng": 127.0105811,
+        "location": "대한민국 서울특별시 성북구 삼선교로16길 116",
+        "home_url": "https://www.hansung.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHHV4YiO5V_soJCNFILJkEe-DMq88VZYmV9p0s92hVuQ&s"
+    },
+    {
+        "university": "세명대",
+        "lat": 37.1780767,
+        "lng": 128.195446,
+        "location": "대한민국 충청북도 제천시 세명로 65",
+        "home_url": "https://www.semyung.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB-3ZaFtSH8-pi2hPh1OnU8FoUiCGcPLN9QPl7QPFf6g&s"
+    },
+    {
+        "university": "배재대",
+        "lat": 36.3217923,
+        "lng": 127.3672754,
+        "location": "대한민국 대전광역시 서구 배재로 155-40",
+        "home_url": "https://www.pcu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_D0AQD5y22T5p1UREShzrFmLTFuR6DFn-G_5Pn9c6LQ&s"
+    },
+    {
+        "university": "한서대",
+        "lat": 36.6907235,
+        "lng": 126.5846966,
+        "location": "대한민국 충청남도 서산시 해미면 한서1로 46",
+        "home_url": "https://www.hanseo.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqsq0Y_GjsI-gsl3ogv84iZ78VAVS9iXRQeYik2l5LA&s"
+    },
+    {
+        "university": "남부대",
+        "lat": 35.2075205,
+        "lng": 126.8419084,
+        "location": "대한민국 광주광역시 광산구 첨단중앙로 23",
+        "home_url": "https://www.nambu.ac.kr/",
+        "logo": "https://kosen.kr/file/img/FILE_000000000052545/1"
+    },
+    {
+        "university": "경남과학기술대",
+        "lat": 35.1807266,
+        "lng": 128.0940397,
+        "location": "대한민국 경상남도 진주시 동진로 33",
+        "home_url": "https://ptl.gntech.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ8PxAipUoM-FrVHo9YMsTKGYcTdK8eLPJOSAe5d6acg&s"
+    },
+    {
+        "university": "홍익대(세종)",
+        "lat": 36.6209818,
+        "lng": 127.2873566,
+        "location": "대한민국 세종특별자치시 조치원읍 세종로 2639",
+        "home_url": "https://www.hongik.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzReU4AQ7kfdAQZTXPBisEJl01OzptgRpX2cjxPKjnlA&s"
+    },
+    {
+        "university": "충남대",
+        "lat": 36.3696055,
+        "lng": 127.3442843,
+        "location": "대한민국 대전광역시 유성구 대학로 99",
+        "home_url": "https://plus.cnu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNI4Qeluk4_Qj70_GJuBjsZCAC7-BzkFB5a-LbVA9B8w&s"
+    },
+    {
+        "university": "호서대(아산)",
+        "lat": 36.736388,
+        "lng": 127.0751324,
+        "location": "대한민국 충청남도 아산시 배방읍 호서로79번길 20",
+        "home_url": "https://www.hoseo.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCNmairWTOAN00-HF5-ZtLsjFqAp9IyzJl5ai6Ki_PrA&s"
+    },
+    {
+        "university": "고려대(서울)",
+        "lat": 37.59040299999999,
+        "lng": 127.035926,
+        "location": "대한민국 서울특별시 성북구 종암동 고려대",
+        "home_url": "https://www.korea.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0NoETpkdlV1EXbu_znOfay0RoEz8MbQzSjXkhlb1Qqg&s"
+    },
+    {
+        "university": "동명대",
+        "lat": 35.1208085,
+        "lng": 129.1012215,
+        "location": "대한민국 부산광역시 남구 신선로 428",
+        "home_url": "https://www.tu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTXLc0Hc_s7xHTrhZoCdmZol7S1z_dDrMSFm1pnBVA7w&s"
+    },
+    {
+        "university": "동서대",
+        "lat": 35.1461119,
+        "lng": 129.0070218,
+        "location": "대한민국 부산광역시 사상구 주례로 47",
+        "home_url": "https://www.dongseo.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeQdWAhirakye4kbNSXlxx9W41ueXEkBlSIz9EhoOl&s"
+    },
+    {
+        "university": "군산대",
+        "lat": 35.9470221,
+        "lng": 126.6815184,
+        "location": "대한민국 전라북도 군산시 대학로 558",
+        "home_url": "https://www.kunsan.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwkVIwMqQvQDgWqKfPuxZ0yUnVGEC5iA3uK3I7NI6Y5A&s"
+    },
+    {
+        "university": "호원대",
+        "lat": 35.9660343,
+        "lng": 126.8648816,
+        "location": "대한민국 전라북도 군산시 임피면 호원대3길 64",
+        "home_url": "https://www.howon.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHuQhInnFe5at1X0ryMv74PJ2rTV_Ow0Kn2_xPDEEUVQ&s"
+    },
+    {
+        "university": "광운대",
+        "lat": 37.6194277,
+        "lng": 127.05982,
+        "location": "대한민국 서울특별시 노원구 광운로 20",
+        "home_url": "https://www.kw.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCL6jdiEFDdGQFL6aLCJr1tNWhbIK54ZmCoJ8wyZL8g&s"
+    },
+    {
+        "university": "숭실대",
+        "lat": 37.4963538,
+        "lng": 126.9572222,
+        "location": "대한민국 서울특별시 동작구 상도로 369",
+        "home_url": "https://ssu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxHFiL-uTNLrzDkfEwkfknlIEcJIWbQBH52aYw8TBC-A&s"
+    },
+    {
+        "university": "한국외대(서울)",
+        "lat": 37.5974453,
+        "lng": 127.0588002,
+        "location": "대한민국 서울특별시 동대문구 이문로 107",
+        "home_url": "https://www.hufs.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9-J5DfnIPnj1aHh5fXJcuk_wArevbQJMbkz8QBIZIQ&s"
+    },
+    {
+        "university": "성결대",
+        "lat": 37.3793231,
+        "lng": 126.9281851,
+        "location": "대한민국 경기도 안양시 만안구 성결대학로 53",
+        "home_url": "https://www.sungkyul.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWrptms6L_Tbge7Mbsk0A5YOnZrNg7tNCmetm7Rc0jGQ&s"
+    },
+    {
+        "university": "인천대",
+        "lat": 37.3749658,
+        "lng": 126.6322345,
+        "location": "대한민국 인천광역시 연수구 아카데미로 119",
+        "home_url": "https://www.inu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa58Mh2y5ijse31KM_L22xV2BRA0QDKYvGFbp9_HX4UA&s"
+    },
+    {
+        "university": "경동대(원주문막)",
+        "lat": 37.2646325,
+        "lng": 127.7922161,
+        "location": "대한민국 강원도 원주시 문막읍 후용리 902",
+        "home_url": "https://www.kduniv.ac.kr/kor/CMS/Contents/Contents.do?mCode=MN232",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkudNkoFufwxvtUHOCxTQza2qOcOT2bgOTWm5GCus_1w&s"
+    },
+    {
+        "university": "경남대",
+        "lat": 35.18035,
+        "lng": 128.553385,
+        "location": "대한민국 창원시",
+        "home_url": "https://www.kyungnam.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGBdP3yx99pY_MxJWmhGIwVvs1LzVtatQrzKD4Gb8Kdg&s"
+    },
+    {
+        "university": "부산외국어대",
+        "lat": 35.2673966,
+        "lng": 129.0787513,
+        "location": "대한민국 부산광역시 금정구 금샘로485번길 65",
+        "home_url": "https://www.bufs.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZEoGP8hgMnE3gbEGoAGpd3grr7vUSjvUomjD5QOKTVQ&s"
+    },
+    {
+        "university": "서울교대",
+        "lat": 37.4901737,
+        "lng": 127.0162346,
+        "location": "대한민국 서울특별시 서초구 서초중앙로 96",
+        "home_url": "https://www.snue.ac.kr/",
+        "logo": "https://m.ksymbol.com/web/product/big/koreasymbol_679.jpg"
+    },
+    {
+        "university": "광주대",
+        "lat": 35.1074896,
+        "lng": 126.8956046,
+        "location": "대한민국 광주광역시 남구 효덕로 277",
+        "home_url": "https://www.gwangju.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd_-7o93x9KAKq9cZ72T3KiJ7qFqSi63w1eL-7pw_j4w&s"
+    },
+    {
+        "university": "호남대",
+        "lat": 35.1504723,
+        "lng": 126.768901,
+        "location": "대한민국 광주광역시 광산구 호남대길 100",
+        "home_url": "https://www.honam.ac.kr/",
+        "logo": "https://espo.honam.ac.kr/attach/board/1037/content/20210215095401h2EmGX7aAWAnEnHgVzgs.jpg"
+    },
+    {
+        "university": "홍익대(서울)",
+        "lat": 37.5507563,
+        "lng": 126.9254901,
+        "location": "대한민국 서울특별시 마포구 와우산로 94",
+        "home_url": "https://www.hongik.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRhTS-nVymSy4Qk0zcs7rsTU19lesne_sQiP6ZWDmRQ&s"
+    },
+    {
+        "university": "우석대(진천)",
+        "lat": 36.8452512,
+        "lng": 127.4371594,
+        "location": "대한민국 충청북도 진천군 진천읍 대학로 66",
+        "home_url": "https://jc.woosuk.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8HDNq_5qvWkVz1GOvcJ6jfygbj9kriFOplhFUH94rMA&s"
+    },
+    {
+        "university": "동아대",
+        "lat": 35.116637,
+        "lng": 128.9684964,
+        "location": "대한민국 부산광역시 사하구 낙동대로550번길 37",
+        "home_url": "https://www.donga.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBJQJ0fEiqUMPYaXSOTSPbgyOn-exaEsxgxwdwBi_o-A&s"
+    },
+    {
+        "university": "아주대",
+        "lat": 37.2840931,
+        "lng": 127.0453753,
+        "location": "대한민국 경기도 수원시 영통구 월드컵로 206",
+        "home_url": "https://www.ajou.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3XSlWWVlZ6qoSw5tzBOEIpGMZruHCeEQQ2Ii7aZDuFA&s"
+    },
+    {
+        "university": "한림대",
+        "lat": 37.8839362,
+        "lng": 127.7378349,
+        "location": "대한민국 강원도 춘천시 한림대학길 1",
+        "home_url": "https://www.hallym.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYVQEbFjjWyYU4BpVrPWhKanj_k19uOlCMp2zpvcFH7w&s"
+    },
+    {
+        "university": "송원대",
+        "lat": 35.1086218,
+        "lng": 126.8747229,
+        "location": "대한민국 광주광역시 남구 송암로 73",
+        "home_url": "https://www.songwon.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpVttHB2kVqrUTpu1ccumnbFoFWJzTktgHf9eRF2T3g&s"
+    },
+    {
+        "university": "강릉원주대(강릉)",
+        "lat": 37.7701317,
+        "lng": 128.8690744,
+        "location": "대한민국 강원도 강릉시 죽헌길 7",
+        "home_url": "https://www.gwnu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-8sEF43ZGqB7IpHjNZwxoHPbyA6KLW9UAiaik-kg5Q&s"
+    },
+    {
+        "university": "평택대",
+        "lat": 36.9948593,
+        "lng": 127.1329552,
+        "location": "대한민국 경기도 평택시 서동대로 3825",
+        "home_url": "https://www.ptu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0eDDmU-J92XK84RaG9AWQ00IwpepYsbfnOXoIn_Zdww&s"
+    },
+    {
+        "university": "가톨릭대(성의)",
+        "lat": 37.5003721,
+        "lng": 127.0059955,
+        "location": "대한민국 서울특별시 서초구 반포동 반포대로 222",
+        "home_url": "https://songeui.catholic.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8fJjtGMUdf_h4WyX1o2XsWU-UwbX1FPv3Xl4jzsBANg&s"
+    },
+    {
+        "university": "동국대(경주)",
+        "lat": 35.86224780000001,
+        "lng": 129.195123,
+        "location": "대한민국 경상북도 경주시 석장동 707",
+        "home_url": "https://wise.dongguk.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Ia44rubi0Dcre3kR9_AIJ3DoRbOqFMYwnpfc1O_L5A&s"
+    },
+    {
+        "university": "건국대(서울)",
+        "lat": 37.5407625,
+        "lng": 127.0793428,
+        "location": "대한민국 서울특별시 광진구 능동로 120",
+        "home_url": "https://www.konkuk.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRky0GYoPvudM5aNG3dnUv_X4Z-tduDEOapMz5QnBAQ5w&s"
+    },
+    {
+        "university": "호서대(천안)",
+        "lat": 36.8279104,
+        "lng": 127.1833844,
+        "location": "대한민국 충청남도 천안시 동남구 호서대길 12",
+        "home_url": "https://www.hoseo.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCNmairWTOAN00-HF5-ZtLsjFqAp9IyzJl5ai6Ki_PrA&s"
+    },
+    {
+        "university": "원광대",
+        "lat": 35.9682695,
+        "lng": 126.9585945,
+        "location": "대한민국 전라북도 익산시 익산대로 460",
+        "home_url": "https://www.wku.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qxQfHnvwg8gJnsQRtYc6A024C6eANx0fXVIN5wAiuw&s"
+    },
+    {
+        "university": "조선대",
+        "lat": 35.1414883,
+        "lng": 126.9320739,
+        "location": "대한민국 광주광역시 동구 서석동 조선대길 146",
+        "home_url": "https://eng.chosun.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafIeHWeMv9CyWH2zOGgFb_0rkLC3sB7j6WmNQb9lLjg&s"
+    },
+    {
+        "university": "한국예술종합학교",
+        "lat": 37.4779073,
+        "lng": 127.0107466,
+        "location": "대한민국 서울특별시",
+        "home_url": "https://www.karts.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF_VoQpYP2Fj7uoj1lbVHjVijJnh1sjj3EesbbU13HdA&s"
+    },
+    {
+        "university": "경기대(서울)",
+        "lat": 37.5647399,
+        "lng": 126.9619161,
+        "location": "대한민국 서울특별시 서대문구 경기대로9길 24",
+        "home_url": "https://www.kyonggi.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGO8f_0UvB9w9sDXl-KXsz7J1Oz1WIZhwmmQHZvYqsIw&s"
+    },
+    {
+        "university": "동덕여대",
+        "lat": 37.6068163,
+        "lng": 127.0423832,
+        "location": "대한민국 서울특별시 성북구 화랑로13길 60",
+        "home_url": "https://www.dongduk.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyS2LKl_SRyEVFAewC63-yDs7lBR-VB8fjv6QZ0g59oA&s"
+    },
+    {
+        "university": "공주교대",
+        "lat": 36.4442848,
+        "lng": 127.1187091,
+        "location": "대한민국 충청남도 공주시 웅진로 27",
+        "home_url": "https://www.gjue.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGp7d8eimXmgJ4k5DF_BjdJH6RoxWbi7rZPTHTaSPTHQ&s"
+    },
+    {
+        "university": "대구예술대",
+        "lat": 36.0329149,
+        "lng": 128.5101988,
+        "location": "대한민국 경상북도 칠곡군 가산면 다부거문1길 202",
+        "home_url": "https://www.dgau.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKuMGr4AnZgRAfDszG2H995MSnVrt6jBuxiRvQfpuX7g&s"
+    },
+    {
+        "university": "경희대(서울)",
+        "lat": 37.5518911,
+        "lng": 126.9917937,
+        "location": "대한민국 서울특별시",
+        "home_url": "https://www.khu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShCJZ2SVn47S7sF0D7m5uCC5e9xHwzdwyRYju9BQC8&s"
+    },
+    {
+        "university": "대구교대",
+        "lat": 35.8526417,
+        "lng": 128.5885005,
+        "location": "대한민국 대구광역시 남구 중앙대로 219",
+        "home_url": "https://www.dnue.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJAf4R7nAKoIb_GD7Tri3YbFHBD1aDtECPk5LO74B8Fw&s"
+    },
+    {
+        "university": "침례신학대",
+        "lat": 36.3864903,
+        "lng": 127.3254589,
+        "location": "대한민국 대전광역시 유성구 하기동 북유성대로 190",
+        "home_url": "https://kbtus.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYyLfiCVtbfsYRml2aTN-Lg1JpEwFFApDhBLRws63QbDtn4iCYkzQjV-joABvY4UYM14g&usqp=CAU"
+    },
+    {
+        "university": "신경대",
+        "lat": 37.2026601,
+        "lng": 126.8394376,
+        "location": "대한민국 경기도 화성시 남양읍 남양중앙로 400-5",
+        "home_url": "https://www.hsmu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxq-r7w9Rg-SmJDqLKtllz-sHy8cJr2TNlno_WV8CVaw&s"
+    },
+    {
+        "university": "세한대(영암)",
+        "lat": 34.747755,
+        "lng": 126.484424,
+        "location": "대한민국 영암군",
+        "home_url": "https://www.sehan.ac.kr/?page_id=1120",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWx04fokS7PjZ0ulDlgFQt1j2482_94tGgp5m8ZxlDSg&s"
+    },
+    {
+        "university": "남서울대",
+        "lat": 36.909155,
+        "lng": 127.144395,
+        "location": "대한민국 충청남도 천안시 서북구 성환읍 대학로 91",
+        "home_url": "https://www.nsu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBelOfLv3DSEeBsLiC0f2x_MrmuyFka-yw8NO5H09nTQ&s"
+    },
+    {
+        "university": "서경대",
+        "lat": 37.6148855,
+        "lng": 127.0133508,
+        "location": "대한민국 서울특별시 성북구 서경로 124",
+        "home_url": "https://sportal.skuniv.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM26T8g4NdQ7Ri0kzhg-eeBM6w_XG6v5RlS3ax4BKbA&s"
+    },
+    {
+        "university": "대진대",
+        "lat": 37.871337,
+        "lng": 127.1566485,
+        "location": "대한민국 경기도 포천시 호국로 1007",
+        "home_url": "https://www.daejin.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaUmY-jMZ1pR_BrrEeJ1_kMMqSorlfJ5wpoJl7MMcI5Q&s"
+    },
+    {
+        "university": "한세대",
+        "lat": 37.3468471,
+        "lng": 126.9524528,
+        "location": "대한민국 경기도 군포시 한세로 30",
+        "home_url": "https://www.hansei.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiMiXwzGikpjBiGdpGk3AaachQ2zZVCVi6dxV5DKeIbQ&s"
+    },
+    {
+        "university": "가톨릭관동대",
+        "lat": 37.7382831,
+        "lng": 128.8766612,
+        "location": "대한민국 강원도 강릉시 범일로579번길 24",
+        "home_url": "https://www.cku.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOLp10mgN7AiUO4syWiX-IF4sOyeXDtw_mSK-Nwb9-9Q&s"
+    },
+    {
+        "university": "가야대",
+        "lat": 35.2694115,
+        "lng": 128.8738294,
+        "location": "대한민국 경상남도 김해시 삼계로 208",
+        "home_url": "https://www.kaya.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUpNC_I08dAuNkh1kNM7_6-FkxD_5KeWLQtb0gEvF5A&s"
+    },
+    {
+        "university": "추계예술대",
+        "lat": 37.5622814,
+        "lng": 126.9546074,
+        "location": "대한민국 서울특별시 서대문구 북아현로11가길 7",
+        "home_url": "https://www.chugye.ac.kr/mbs/university/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lwoR06idA2U2j_YBPacyixLn33dpTRopAq4AsLudlw&s"
+    },
+    {
+        "university": "국민대",
+        "lat": 37.6108694,
+        "lng": 126.9972889,
+        "location": "대한민국 서울특별시 성북구 정릉로 77",
+        "home_url": "https://www.kookmin.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM1niOzL7tqaZ7haf78vjHwcKPdzItGpIztZimamic1w&s"
+    },
+    {
+        "university": "나사렛대",
+        "lat": 36.7962041,
+        "lng": 127.1185261,
+        "location": "대한민국 충청남도 천안시 서북구 월봉로 48",
+        "home_url": "http://www.kornu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZYUfiqGwOLvu8dpiELqLTN4_afb82TyIFoaitBb8T&s"
+    },
+    {
+        "university": "경희대(국제)",
+        "lat": 37.2429616,
+        "lng": 127.0800525,
+        "location": "대한민국 경기도 용인시 기흥구 덕영대로 1732",
+        "home_url": "https://www.khu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShCJZ2SVn47S7sF0D7m5uCC5e9xHwzdwyRYju9BQC8&s"
+    },
+    {
+        "university": "경북대(대구)",
+        "lat": 35.8294374,
+        "lng": 128.5655119,
+        "location": "대한민국 대구광역시",
+        "home_url": "https://www.knu.ac.kr/wbbs/wbbs/contents/index.action?menu_url=intro/map01",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSt_DpfMIrRosSPzOmvmfsLNiEc8PJtkybmnB_ABt40A&s"
+    },
+    {
+        "university": "전북대(특성화)",
+        "lat": 35.9421556,
+        "lng": 126.9604472,
+        "location": "대한민국 전라북도 익산시 고봉로 79",
+        "home_url": "https://www.jbnu.ac.kr/kor/?menuID=245",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCtwVGzTm6n87m1zwkydxGrJK6ge9JKHdUCw0VmFvhzQ&s"
+    },
+    {
+        "university": "한려대",
+        "lat": 34.9558873,
+        "lng": 127.5639835,
+        "location": "대한민국 전라남도 광양시 광양읍 한려대길 94-13",
+        "home_url": "http://www.hanlyo.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtD-dPr60GwU_IZsO6OLXdd-97mwchov0Duphf9Z816w&s"
+    },
+    {
+        "university": "서강대",
+        "lat": 37.5509442,
+        "lng": 126.9410023,
+        "location": "대한민국 서울특별시 마포구 백범로 35",
+        "home_url": "https://wwwe.sogang.ac.kr/wwwe/index_new.html",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJBJZa18O7A64dv37Wuux-nB-RfDcSvNuvZGA8a5o9dg&s"
+    },
+    {
+        "university": "백석대",
+        "lat": 36.8394518,
+        "lng": 127.1839014,
+        "location": "대한민국 충청남도 천안시 동남구 백석대학로 1",
+        "home_url": "https://www.bu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmHoHb3zJ_hA37G9QpbzrRyCAXY3rnA0KGzabLB0qZQ&s"
+    },
+    {
+        "university": "한국국제대",
+        "lat": 35.17349970000001,
+        "lng": 128.2031031,
+        "location": "대한민국 경상남도 진주시 문산읍 동부로 965",
+        "home_url": "https://namu.wiki/w/%ED%95%9C%EA%B5%AD%EA%B5%AD%EC%A0%9C%EB%8C%80%ED%95%99%EA%B5%90",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnDeG0kvQtXXm7DKicWBKC6C0S6AD2AHOKvEr8h6jvxA&s"
+    },
+    {
+        "university": "한국교통대(증평)",
+        "lat": 36.7864783,
+        "lng": 127.6046068,
+        "location": "대한민국 충청북도 증평군",
+        "home_url": "https://www.ut.ac.kr/kor/sub06_04_02_02.do",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZQZaiblbRD03lODshOT2ztjDVGk4PeqekpWHysdZbqQ&s"
+    },
+    {
+        "university": "강원대(도계)",
+        "lat": 37.2248126,
+        "lng": 129.0964569,
+        "location": "대한민국 강원도 삼척시 도계읍 황조길 346",
+        "home_url": "https://www.kangwon.ac.kr/www/contents.do?key=1160",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrAG5x3VhQIpxo07RbmzpoXebXJdHHx_1mVdisYgErSA&s"
+    },
+    {
+        "university": "계명대",
+        "lat": 35.85584619999999,
+        "lng": 128.4889252,
+        "location": "대한민국 대구광역시 달서구 신당동 달구벌대로 1095",
+        "home_url": "https://www.kmu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnXyiijmSDdU3s1y9mV2yPTfgt8ZAxjn6EjjZzZGcc&s"
+    },
+    {
+        "university": "유원대",
+        "lat": 36.19579900000001,
+        "lng": 127.799512,
+        "location": "대한민국 충청북도 영동군 영동읍 대학로 310",
+        "home_url": "https://www.u1.ac.kr/html/kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3GFtf_m7_mzzQ1EOO0TYM7aWNVdCKM8NZOmXlKZBtpw&s"
+    },
+    {
+        "university": "경상대",
+        "lat": 35.1530444,
+        "lng": 128.1010899,
+        "location": "대한민국 경상남도 진주시 진주대로 501",
+        "home_url": "https://www.gnu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1Bbn0LhKhQ_jfwTWScEg0adpNxP95CZ8UbAcaKmjQQ&s"
+    },
+    {
+        "university": "중부대(충청)",
+        "lat": 36.1921305,
+        "lng": 127.4490093,
+        "location": "대한민국 충청남도 금산군 추부면 대학로 201 KR",
+        "home_url": "https://www.joongbu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW1qeCFH-ig9KwV6QuK8yXC4a5KeFCBtbDucCQilcnAQ&s"
+    },
+    {
+        "university": "부산대",
+        "lat": 35.2339681,
+        "lng": 129.0806855,
+        "location": "대한민국 부산광역시 금정구 부산대학로63번길 2",
+        "home_url": "https://www.pusan.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP_X6NCp49oXwEZ9fCQmskLs52eF7hFqWYLiEXSXOM7A&s"
+    },
+    {
+        "university": "인제대(부산)",
+        "lat": 35.1455522,
+        "lng": 129.0209286,
+        "location": "대한민국 부산광역시 부산진구 복지로 75",
+        "home_url": "https://www.inje.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfNRe9tUSDcxxVLTT5AnIsJwZ0wlSYlK2Qcbgsy3SfVA&s"
+    },
+    {
+        "university": "이화여대",
+        "lat": 37.5618588,
+        "lng": 126.9468339,
+        "location": "대한민국 서울특별시 서대문구 이화여대길 52",
+        "home_url": "https://www.ewha.ac.kr/",
+        "logo": "https://mblogthumb-phinf.pstatic.net/MjAxODA3MTRfMzEg/MDAxNTMxNTUwNzQxNzY5.ZcfxzoUWOPUSFu2xZvu6bC2-rUsGtiN5lOOwNzSaF-wg.2J4c34341_SqcUax7_iI6rPjcfSttx0jXE2akwKsN8Ig.JPEG.qcamp/ewha.jpg?type=w800"
+    },
+    {
+        "university": "한동대",
+        "lat": 36.102232,
+        "lng": 129.3897838,
+        "location": "대한민국 경상북도 포항시 북구 흥해읍 한동로 558",
+        "home_url": "https://www.handong.edu/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJiEY6raeP6ZU38Ba-YPNU-FJE47OhJ71irsm4i1KqcA&s"
+    },
+    {
+        "university": "DGIST",
+        "lat": 35.7046875,
+        "lng": 128.4570625,
+        "location": "Daegu Gyeongbuk, Institute of Science and Technology, 달성군 대구광역시 대한민국",
+        "home_url": "https://www.dgist.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8zgQ03UdU0s-Ggqpahqx_CNDyH2ASTMvTU13_u8TQsA&s"
+    },
+    {
+        "university": "건양대(논산)",
+        "lat": 36.1821467,
+        "lng": 127.1086914,
+        "location": "대한민국 충청남도 논산시 대학로 121",
+        "home_url": "https://www.konyang.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhPWy2lZlz0xz34N2KzpBH4yXeqc-OcXgoWB0Fsdbc6A&s"
+    },
+    {
+        "university": "용인대",
+        "lat": 37.2266747,
+        "lng": 127.1681805,
+        "location": "대한민국 경기도 용인시 처인구 용인대학로 134",
+        "home_url": "https://www.yongin.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPfPrRFBLDD496kfFYM5LW6m9lcdZBg3F0dHq6KzjTA&s"
+    },
+    {
+        "university": "단국대(천안)",
+        "lat": 36.804138,
+        "lng": 127.2025586,
+        "location": "대한민국 충청남도 천안시",
+        "home_url": "https://www.dankook.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc7_Kb9LUXp64v01gMxhRDWHV4-xzaW12-3SID6JhfuA&s"
+    },
+    {
+        "university": "한경대",
+        "lat": 37.0116265,
+        "lng": 127.2642483,
+        "location": "대한민국 경기도 안성시 중앙로 327",
+        "home_url": "https://www.hknu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnA5lu3XlD2_AdmM9T0j3-1EA_11N1m18L-SH-ulJ8jA&s"
+    },
+    {
+        "university": "청주대",
+        "lat": 36.6522355,
+        "lng": 127.4946216,
+        "location": "대한민국 충청북도 청주시 청원구 대성로 298",
+        "home_url": "https://www.cju.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgLPyWRCbUwwKvWTf514oWfqlQ6cQF3kQfdVFajP31RA&s"
+    },
+    {
+        "university": "공주대(공주)",
+        "lat": 36.47982,
+        "lng": 127.0752196,
+        "location": "대한민국 충청남도 공주시",
+        "home_url": "https://www.kongju.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW9JlzsmIjNI_LrG2U_q5XjAO2Y2rKgBNAJpfRi_0MoA&s"
+    },
+    {
+        "university": "고신대",
+        "lat": 35.0796217,
+        "lng": 129.0630066,
+        "location": "대한민국 부산광역시",
+        "home_url": "https://www.kosin.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT4RHKF6GdLYN6dcM9eCaUKVZEMpjIaJjvXN3NCCDomg&s"
+    },
+    {
+        "university": "전남대(여수)",
+        "lat": 34.77487,
+        "lng": 127.6994546,
+        "location": "대한민국 전라남도 여수시 대학로 50",
+        "home_url": "http://www.chonnam.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTMzCUgA1cPDfoGAB-eM26xnBsgCkXXiaTf7NojdtCoA&s"
+    },
+    {
+        "university": "목원대",
+        "lat": 36.3261215,
+        "lng": 127.3387606,
+        "location": "대한민국 대전광역시 서구 도안북로 88",
+        "home_url": "https://www.mokwon.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6l8p9gKbnyASZwL-wk1_Xi8bHvjrYYzcjTeDUbn_aFQ&s"
+    },
+    {
+        "university": "목포해양대",
+        "lat": 34.7918033,
+        "lng": 126.3651007,
+        "location": "대한민국 전라남도 목포시 죽교동 해양대학로 91 KR",
+        "home_url": "https://www.mmu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcPdFripc3K9yZ5bFa6-oO8WoG5CUby4MwJQzKr99B3Q&s"
+    },
+    {
+        "university": "KAIST",
+        "lat": 36.3721427,
+        "lng": 127.36039,
+        "location": "대한민국 대전광역시 유성구 대학로 291",
+        "home_url": "https://www.kaist.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIT4VA8Ctf8973SePyYvObxWelv18-JoseekOLVT3&s"
+    },
+    {
+        "university": "경일대",
+        "lat": 35.9079712,
+        "lng": 128.8012825,
+        "location": "대한민국 경상북도 경산시 하양읍 가마실길 50",
+        "home_url": "https://www.kiu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwbI7yRyWM-wp1WC3iMxaGaivOAn6XKdfbg9-L5bhWMQ&s"
+    },
+    {
+        "university": "경동대(양주)",
+        "lat": 37.8097442,
+        "lng": 127.0714039,
+        "location": "대한민국 경기도 양주시 고암동 청담로 95",
+        "home_url": "https://kduniv.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXM7EubXRDuwMlh-9SKcWxjIquZsrP3fj2ey71MV7oQ&s"
+    },
+    {
+        "university": "부산가톨릭대",
+        "lat": 35.2448396,
+        "lng": 129.0978032,
+        "location": "대한민국 부산광역시 금정구 오륜대로 57",
+        "home_url": "https://www.cup.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGnMbu8vJq-EoojybL22el29wbI-Db6RDcpKVhQ4-1aQ&s"
+    },
+    {
+        "university": "부산교대",
+        "lat": 35.19544339999999,
+        "lng": 129.0750953,
+        "location": "대한민국 부산광역시 연제구 교대로 24",
+        "home_url": "https://www.bnue.ac.kr/Home/Main.mbz",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtBg58z6sV4pNzeMLe02DZ8xQkrHpvYUDPJ28nmsi7f_zoNRaHMi10R7K7dAhUjjKVw0&usqp=CAU"
+    },
+    {
+        "university": "창신대",
+        "lat": 35.2446879,
+        "lng": 128.5996133,
+        "location": "대한민국 경상남도 창원시 마산회원구 팔용로 262",
+        "home_url": "https://www.cs.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr7el5s9gxJg0-WbrIFRyBJeriBHps13cLJAc6tMtzpw&s"
+    },
+    {
+        "university": "KC대",
+        "lat": 37.5483449,
+        "lng": 126.8547974,
+        "location": "대한민국 서울특별시 강서구 까치산로24길 47",
+        "home_url": "https://gangseo.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa5iIL1vvR0L1AqHfS-AbAfbsBIN3lOL3pMNFvcnQ7mw&s"
+    },
+    {
+        "university": "순천대",
+        "lat": 34.9687735,
+        "lng": 127.4802359,
+        "location": "대한민국 전라남도 순천시 중앙로 255",
+        "home_url": "https://www.scnu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHmV01NLBB36xXyH_jizp9NQVNfs9g2ySJqckrPLa1Tw&s"
+    },
+    {
+        "university": "한남대",
+        "lat": 36.3546616,
+        "lng": 127.4210188,
+        "location": "대한민국 대전광역시 대덕구 한남로 70",
+        "home_url": "https://www.hannam.ac.kr/",
+        "logo": "https://hannam.insightjob.co.kr/img/kakaotalk.png"
+    },
+    {
+        "university": "UNIST",
+        "lat": 35.5734176,
+        "lng": 129.189629,
+        "location": "대한민국 울산광역시 울주군 언양읍 유니스트길 50",
+        "home_url": "https://unist-kor.unist.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3J0L0FEIi_qfR5dsJngAn_V8lmP-jWR_GLzRLxElOtw&s"
+    },
+    {
+        "university": "경성대",
+        "lat": 35.1397716,
+        "lng": 129.0984966,
+        "location": "대한민국 부산광역시 남구 수영로 309",
+        "home_url": "http://www.ks.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnG6g8Le9tZtXpYCrGzEM3LD3dxizIzO54IOpAIIOEhg&s"
+    },
+    {
+        "university": "동양대(영주)",
+        "lat": 36.883202,
+        "lng": 128.5337833,
+        "location": "대한민국 경상북도 영주시 풍기읍 동양대로 145",
+        "home_url": "https://www.dyu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYHaFa31_kRIt4McK9peqf92_ul6LHnYJN5HQ4hmGlwg&s"
+    },
+    {
+        "university": "가천대(메디컬)",
+        "lat": 37.4508279,
+        "lng": 126.7082138,
+        "location": "대한민국 인천광역시 남동구 독점로3번길 38-13",
+        "home_url": "https://www.gachon.ac.kr/kor/912/subview.do",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTWbQlsnqozyzkIpx0iUjj6pN2pMU_pdNjnxmytNFxkw&s"
+    },
+    {
+        "university": "호서대(당진)",
+        "lat": 37.0029772,
+        "lng": 126.5848518,
+        "location": "대한민국 충청남도 당진시 석문면 산단 7로 201",
+        "home_url": "https://huicc.hoseo.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCNmairWTOAN00-HF5-ZtLsjFqAp9IyzJl5ai6Ki_PrA&s"
+    },
+    {
+        "university": "충북대",
+        "lat": 36.6284028,
+        "lng": 127.4592136,
+        "location": "대한민국 충청북도 청주시 서원구 충대로 1",
+        "home_url": "https://www.chungbuk.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNsayA78QU6wMCzBxFX8fmTedNq7wYjFJd8QBeN9teQ&s"
+    },
+    {
+        "university": "예수대",
+        "lat": 35.8155509,
+        "lng": 127.1345338,
+        "location": "대한민국 전라북도 전주시 완산구 서원로 383",
+        "home_url": "https://www.jesus.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDb7TUJhkmvzGT8TejNolEboKuaSqU97MsVYwgSRlBqQ&s"
+    },
+    {
+        "university": "연세대(서울)",
+        "lat": 37.5663937,
+        "lng": 126.9387066,
+        "location": "대한민국 서울특별시 서대문구 연세로 50",
+        "home_url": "https://www.yonsei.ac.kr/sc/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVrhxj4C9oNveCpbwpzKA3snWbg295OwkZJw3Ma11W4Q&s"
+    },
+    {
+        "university": "경북대(상주)",
+        "lat": 36.3788636,
+        "lng": 128.1453317,
+        "location": "대한민국 경상북도 상주시 경상대로 2559",
+        "home_url": "https://www.knu.ac.kr/wbbs/wbbs/contents/index.action?menu_url=intro/map03_02&menu_idx=",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDUnpgV9mbCZQ-lPm5Fbh0wWqehtc_8hX6Xg5WAFunkA&s"
+    },
+    {
+        "university": "전주교대",
+        "lat": 35.80913779999999,
+        "lng": 127.155104,
+        "location": "대한민국 전라북도 전주시 완산구 서학로 50",
+        "home_url": "https://www.jnue.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQCJgxahcWLl0uuoZNeldD_L5cCDTsi5WCWxuKrAXjCA&s"
+    },
+    {
+        "university": "제주대",
+        "lat": 33.4547583,
+        "lng": 126.5622562,
+        "location": "대한민국 제주특별자치도 제주시 특별자치도 제주대학로 102",
+        "home_url": "https://www.jejunu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSykZRTzliRgpDMUrPs806ptqRitolaOMs9mBI1C037Gw&s"
+    },
+    {
+        "university": "창원대",
+        "lat": 35.245595,
+        "lng": 128.691953,
+        "location": "대한민국 경상남도 창원시 의창구 창원대학로 20",
+        "home_url": "https://www.changwon.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQHrZaRQeUnin2ThrD4ZIDTISVOP-Jed2Tu9P0mWtOQ&s"
+    },
+    {
+        "university": "동신대",
+        "lat": 35.0506154,
+        "lng": 126.7198344,
+        "location": "대한민국 전라남도 나주시 동신대길 67",
+        "home_url": "https://www.dsu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThmPBNCqVVVrhNFXsjsupS1o8_fVfgQ86UJs6m5g5Ohg&s"
+    },
+    {
+        "university": "한일장신대",
+        "lat": 35.7636976,
+        "lng": 127.2063688,
+        "location": "대한민국 전라북도 완주군 상관면 왜목로 726-15",
+        "home_url": "https://www.hanil.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrXGUe9WtTC73Fxgk2ksnaJULdNdfMnYsc5gz3PFxyqA&s"
+    },
+    {
+        "university": "을지대(대전)",
+        "lat": 36.3329549,
+        "lng": 127.4055284,
+        "location": "대한민국 대전광역시 중구 목동 계룡로771번길 77",
+        "home_url": "https://www.eulji.ac.kr/?menuno=3087",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7JAJ9wCQKRZ5TrJo0kV2_p94tOPm1cS4Z5LftXCxK&s"
+    },
+    {
+        "university": "상명대(천안)",
+        "lat": 37.602638,
+        "lng": 126.955252,
+        "location": "대한민국 서울특별시 종로구 홍지문2길 20",
+        "home_url": "https://www.smu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwfgVGIYqSHTxr_wh5VZHeL7oLBuP9c2zrBJR3Fpzu&s"
+    },
+    {
+        "university": "강남대",
+        "lat": 37.27574,
+        "lng": 127.13249,
+        "location": "대한민국 경기도 용인시 기흥구 강남로 40",
+        "home_url": "https://www.kangnam.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXn0FGKmAhtv36xfZ8bb99kFxlsx1d4BUpFqhH1Gb-Bw&s"
+    },
+    {
+        "university": "강릉원주대(원주)",
+        "lat": 37.3082307,
+        "lng": 127.9294889,
+        "location": "대한민국 강원도 원주시",
+        "home_url": "https://www.gwnu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-8sEF43ZGqB7IpHjNZwxoHPbyA6KLW9UAiaik-kg5Q&s"
+    },
+    {
+        "university": "동의대",
+        "lat": 35.1415069,
+        "lng": 129.0335365,
+        "location": "대한민국 부산광역시 부산진구 엄광로 176",
+        "home_url": "https://www.deu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8Shx44KPU7nxpd8l_H8gp-tZKol3XQZeoM8JbY5XjA&s"
+    },
+    {
+        "university": "순천향대",
+        "lat": 36.7696489,
+        "lng": 126.9324079,
+        "location": "대한민국 충청남도 아산시 신창면 순천향로 22",
+        "home_url": "https://www.sch.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTIFdfOjIrcFGVbPbi1SWKfeqpZPS5wkj4ELfGeHHRrQ&s"
+    },
+    {
+        "university": "동국대(서울)",
+        "lat": 37.5582876,
+        "lng": 127.0001671,
+        "location": "대한민국 서울특별시 중구 필동로1길 30",
+        "home_url": "https://www.dongguk.edu/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KxwFwPDLK8YMhv9h8CJ0sP7kmxSDBwD80WR5ixV_Fw&s"
+    },
+    {
+        "university": "예원예술대(전북)",
+        "lat": 35.6471012,
+        "lng": 127.2710302,
+        "location": "대한민국 전라북도 임실군 신평면 창인로 117",
+        "home_url": "https://www.yewon.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdhZ0Fzv4yN4bQM_Uf4DtZn2Ojg5-xyHDRyANdrpBtKA&s"
+    },
+    {
+        "university": "예원예술대(양주)",
+        "lat": 37.8086632,
+        "lng": 127.001143,
+        "location": "대한민국 경기도 양주시",
+        "home_url": "https://www.yewon.ac.kr/",
+        "logo": "https://i.namu.wiki/i/UOeRA4bNqCUAqUVnKckA3zxkMFUh4Cnyy4c_bgrEzQwCCrRGEGx8evbdZVU1Zqn-pP9dC3qhuHNcMcZmyFXm3Q.svg"
+    },
+    {
+        "university": "우석대(완주)",
+        "lat": 35.9126534,
+        "lng": 127.0667004,
+        "location": "대한민국 전라북도 완주군 삼례읍 삼례로 443",
+        "home_url": "https://www.woosuk.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKWFasqbLeqShfgr8ci7cVr7tTa3619-DLhr7ZhJFzuw&s"
+    },
+    {
+        "university": "선문대",
+        "lat": 36.7989764,
+        "lng": 127.0750025,
+        "location": "대한민국 충청남도 아산시 탕정면 선문로221번길 70",
+        "home_url": "https://www.sunmoon.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZ4KI9sYGCxj2TJ_6k6E7ZZBPl9G9SX4mHRlE-1Ob8Q&s"
+    },
+    {
+        "university": "공주대(예산)",
+        "lat": 36.669692,
+        "lng": 126.8606966,
+        "location": "대한민국 충청남도 예산군 예산읍 대학로 54",
+        "home_url": "https://www.kongju.ac.kr/kongju/13127/subview.do",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_WcEU8kJonI3whed0ROcwwiBHnbMhMWH0e6Hi-pNIVg&s"
+    },
+    {
+        "university": "인천가톨릭대(송도)",
+        "lat": 37.3860959,
+        "lng": 126.6389202,
+        "location": "대한민국 인천광역시 연수구 송도동",
+        "home_url": "https://www.iccu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqrrhaXtTQ99cH1Bn9tEAqh9FVCoPfo1S-psXmLLMgbQ&s"
+    },
+    {
+        "university": "제주국제대",
+        "lat": 33.4402449,
+        "lng": 126.571466,
+        "location": "대한민국 제주특별자치도 제주시 516로 2870",
+        "home_url": "https://www.jeju.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThunXyVP8S5Z6CJD82-fkNXOzL5_QoR1Ft3SGN9Zqiiw&s"
+    },
+    {
+        "university": "한국체육대",
+        "lat": 37.5196266,
+        "lng": 127.1309837,
+        "location": "대한민국 서울특별시 송파구 양재대로 1239",
+        "home_url": "https://www.knsu.ac.kr/knsu/index.do",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2kZJ7jVPUhn7IA3RULDdHCtre3zWuZQPbPeYVpf1IyQ&s"
+    },
+    {
+        "university": "인하대",
+        "lat": 37.4500221,
+        "lng": 126.653488,
+        "location": "대한민국 인천광역시 미추홀구 인하로 100",
+        "home_url": "http://www.inha.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-32rgAn3JXwMzinud58SvS3_E8t6qoLNwortvTH0FA&s"
+    },
+    {
+        "university": "울산대",
+        "lat": 35.5437411,
+        "lng": 129.2562843,
+        "location": "대한민국 울산광역시 남구 대학로 93",
+        "home_url": "https://www.ulsan.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4LZiIYbjc_wBK5cOdaWOGmhfO8e80Vl-oD4jFZKy-3A&s"
+    },
+    {
+        "university": "공주대(천안)",
+        "lat": 36.8511811,
+        "lng": 127.1511352,
+        "location": "대한민국 충청남도 천안시 서북구 천안대로 1223-24",
+        "home_url": "https://brain.kongju.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW9JlzsmIjNI_LrG2U_q5XjAO2Y2rKgBNAJpfRi_0MoA&s"
+    },
+    {
+        "university": "장로회신학대",
+        "lat": 37.550118,
+        "lng": 127.1038593,
+        "location": "대한민국 서울특별시 광진구 광장로5길 25-1",
+        "home_url": "https://www.puts.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXfnAZW2tu26k_eYfhHJhbSPjWzR27adxx1vaAkRY3yw&s"
+    },
+    {
+        "university": "안양대(강화)",
+        "lat": 37.7117023,
+        "lng": 126.4450135,
+        "location": "대한민국 인천광역시 강화군 불은면 중앙로 602-14",
+        "home_url": "https://www.anyang.ac.kr/main/introduction/ganghwa-campus001.do",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQ5Hz5JYu1gguibpjKiJb2NSeRWgEbk4Gd4BxKr9lpA&s"
+    },
+    {
+        "university": "서울한영대",
+        "lat": 37.4965411,
+        "lng": 126.8512616,
+        "location": "대한민국 서울특별시 구로구 경인로 290-42",
+        "home_url": "https://shyu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGsCHz78cvR5m0swYTCt2Br2MgEZoB_EOnEk9tzfyp_A&s"
+    },
+    {
+        "university": "세한대(당진)",
+        "lat": 36.9023743,
+        "lng": 126.6545022,
+        "location": "대한민국 충청남도 당진시",
+        "home_url": "https://www.sehan.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpU6Lh55MQvp-nd6TI-nd5k6bHCKnL5k81QreG8-aMg&s"
+    },
+    {
+        "university": "경동대(고성)",
+        "lat": 38.25066169999999,
+        "lng": 128.55656,
+        "location": "대한민국 강원도 고성군 토성면 봉포리 산91-1 KR",
+        "home_url": "https://kduniv.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmtrRE_7za3RRzj7DS4-Q0VS--2XvSxnxVXohtl51KPw&s"
+    },
+    {
+        "university": "단국대(죽전)",
+        "lat": 37.3215984,
+        "lng": 127.1267503,
+        "location": "대한민국 경기도 용인시 수지구 죽전로 152",
+        "home_url": "https://www.dankook.ac.kr/web/kor/-61",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc7_Kb9LUXp64v01gMxhRDWHV4-xzaW12-3SID6JhfuA&s"
+    },
+    {
+        "university": "세종대",
+        "lat": 37.5518018,
+        "lng": 127.0736345,
+        "location": "대한민국 서울특별시 광진구 능동로 209 세종대학교",
+        "home_url": "http://www.sejong.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN128yIxDxJS0kjiskf4ERrhIhkkwSFITRvctbZPEUow&s"
+    },
+    {
+        "university": "해군사관학교",
+        "lat": 35.1440201,
+        "lng": 128.6583659,
+        "location": "대한민국 경상남도 창원시 진해구 중원로 1",
+        "home_url": "http://www.navy.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7gDPXrFWSNovT36uUO2u6psc4I5kVyXAGbFGhpifUqQ&s"
+    },
+    {
+        "university": "한국산업기술대",
+        "lat": 35.907757,
+        "lng": 127.766922,
+        "location": "대한민국",
+        "home_url": "http://www.kpu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_qHdXY71WEh1CHmtKC2xaXUnM4plvVkSD2meU9EYKFw&s"
+    },
+    {
+        "university": "한양대(에리카)",
+        "lat": 37.2974415,
+        "lng": 126.8355968,
+        "location": "대한민국 경기도 안산시 상록구 한양대학로 55",
+        "home_url": "https://www.hanyang.ac.kr/erica/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-dZAijfyfM6mc2Lo2GFNwUJjwlBZvdVMYqQhSc5vYDw&s"
+    },
+    {
+        "university": "고려대(세종)",
+        "lat": 36.6108968,
+        "lng": 127.2864676,
+        "location": "대한민국 세종특별자치시 조치원읍 세종로 2511",
+        "home_url": "https://sejong.korea.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SSOKD1KIf5iJ8DoyaaIyxC7K5bSVRfpDyhrVsXTL9g&s"
+    },
+    {
+        "university": "서원대",
+        "lat": 36.62416870000001,
+        "lng": 127.4828486,
+        "location": "대한민국 충청북도 청주시 서원구 무심서로 377-3",
+        "home_url": "https://www.seowon.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-eJEXVAl4JUYyobcZN904qTNAfWYGSJ1ZrfYXwx6Waw&s"
+    },
+    {
+        "university": "극동대",
+        "lat": 37.1276499,
+        "lng": 127.6435375,
+        "location": "대한민국 충청북도 음성군 감곡면 대학길 76-32 극동대학교",
+        "home_url": "https://www.kdu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSmM_X7_iIGDtnEGMpUBW0E5Bnlm446STsrjau1ZTyuQ&s"
+    },
+    {
+        "university": "대구가톨릭대",
+        "lat": 35.9120561,
+        "lng": 128.8076575,
+        "location": "대한민국 경상북도 경산시 하양읍 하양로 13-13",
+        "home_url": "https://www.cu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzNOT_HXRQXZIZrfY2PrTxjlOdZtSXP2uktVR_dcUrWQ&s"
+    },
+    {
+        "university": "서울신학대",
+        "lat": 37.4794588,
+        "lng": 126.7890182,
+        "location": "대한민국 경기도 부천시 호현로489번길 52",
+        "home_url": "https://www.stu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt1x4WfOaV6AEiFuzo7XgcJD0gDC-rBqKY5xnVoI3PHw&s"
+    },
+    {
+        "university": "한국항공대",
+        "lat": 37.599355,
+        "lng": 126.8651474,
+        "location": "대한민국 경기도 고양시 덕양구 항공대학로 76",
+        "home_url": "https://www.kau.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtdDyZQbWWoBBsvHWMFR5ivPaUayUpg_61DVqhVMaZQ&s"
+    },
+    {
+        "university": "성신여대",
+        "lat": 37.5912999,
+        "lng": 127.0221068,
+        "location": "대한민국 서울특별시 성북구 보문로34다길 2",
+        "home_url": "https://www.sungshin.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtCYMgtAqRe2qA103u-WXCCN51qvFHCjXVVmUT8N74lQ&s"
+    },
+    {
+        "university": "협성대",
+        "lat": 37.21320350000001,
+        "lng": 126.9533768,
+        "location": "대한민국 경기도 화성시 최루백로 72",
+        "home_url": "https://www.uhs.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoqV5duJVW_pZf55u5zmauu0q3eJfdCa3NsPh0-2UQIg&s"
+    },
+    {
+        "university": "서울과학기술대",
+        "lat": 37.6316684,
+        "lng": 127.0774813,
+        "location": "대한민국 서울특별시 노원구 공릉로 232",
+        "home_url": "https://www.seoultech.ac.kr/index.jsp",
+        "logo": "https://www.seoultech.ac.kr/site/www/images/intro/img_ui01_01.gif"
+    },
+    {
+        "university": "부경대",
+        "lat": 35.134032,
+        "lng": 129.1031735,
+        "location": "대한민국 부산광역시 남구 용소로 45",
+        "home_url": "https://www.pknu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmufTzTajMLPQQ0E9U82Y3Jeb6DI_WC-QKCla_zaQ3gQ&s"
+    },
+    {
+        "university": "춘천교대",
+        "lat": 37.8590126,
+        "lng": 127.7483479,
+        "location": "대한민국 강원도 춘천시 공지로 126",
+        "home_url": "https://www.cnue.ac.kr/portal/index.do",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhDGzAP3EsqpwqJnifEOaEzEc9pMOsF5NjkY-q0pqZiw&s"
+    },
+    {
+        "university": "경기대(수원)",
+        "lat": 37.30048499999999,
+        "lng": 127.035833,
+        "location": "대한민국 경기도 수원시 영통구 광교산로 154-42",
+        "home_url": "https://www.kyonggi.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP5AhU1QeTQ02ZA9xkjIbpyOKUn_CX_TLMmSEtCBQQQA&s"
+    },
+    {
+        "university": "대전대",
+        "lat": 36.3363135,
+        "lng": 127.4582327,
+        "location": "대한민국 대전광역시 동구 대학로 62",
+        "home_url": "https://www.dju.ac.kr/",
+        "logo": "https://mgood.co.kr/upload/univvisit/202012290944441734175082.jpg"
+    },
+    {
+        "university": "한국해양대",
+        "lat": 35.0762886,
+        "lng": 129.0889751,
+        "location": "대한민국 부산광역시 영도구 태종로 727",
+        "home_url": "https://www.kmou.ac.kr/kmou/main.do",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrMW0VFPGLnw9KiFpp86bShvhcsccvsNuOE_FniioJDQ&s"
+    },
+    {
+        "university": "가천대(글로벌)",
+        "lat": 37.4507128,
+        "lng": 127.1288495,
+        "location": "대한민국 경기도 성남시 수정구 성남대로 1342",
+        "home_url": "https://www.gachon.ac.kr/kor/909/subview.do",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsDOV3udVi4QmpMebtOfVLpX-DvHYt7jCda2o1LvBkVw&s"
+    },
+    {
+        "university": "명지대(서울)",
+        "lat": 37.5802219,
+        "lng": 126.9226047,
+        "location": "대한민국 서울특별시 서대문구 거북골로 34",
+        "home_url": "https://www.mju.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-XCNkWUBlXw--SY9xJxnrKLybq1TQGemtkgm0dcfQA&s"
+    },
+    {
+        "university": "상명대(서울)",
+        "lat": 37.602638,
+        "lng": 126.955252,
+        "location": "대한민국 서울특별시 종로구 홍지문2길 20",
+        "home_url": "https://www.smu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSocfgnV_gJsR3N9RxQtAM2TZU7AVHj9Q_RHcZXVDtWpA&s"
+    },
+    {
+        "university": "서울기독대",
+        "lat": 37.6009165,
+        "lng": 126.9123639,
+        "location": "대한민국 서울특별시 은평구 갈현로4길 26-2",
+        "home_url": "https://www.scu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj0pXxRRybpSd-rKMvn4UiF4j2UnUY0X-NrnYzB6Iz&s"
+    },
+    {
+        "university": "안양대(안양)",
+        "lat": 37.3921415,
+        "lng": 126.9205866,
+        "location": "대한민국 경기도 안양시 만안구 삼덕로37번길 22",
+        "home_url": "https://www.anyang.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYFgKNweQERQJrCzx2HSyGl3krNWfpFAFQsc3Ax7WMYw&s"
+    },
+    {
+        "university": "건양대(대전)",
+        "lat": 36.3069266,
+        "lng": 127.3431559,
+        "location": "대한민국 대전광역시 서구 관저동로 158",
+        "home_url": "https://www.konyang.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThA9pqNeZxcFfmtft_CxDyp1n_bp-lNOJ3Np1XygOkSQ&s"
+    },
+    {
+        "university": "목포대",
+        "lat": 34.910319,
+        "lng": 126.4361795,
+        "location": "대한민국 전라남도 무안군 청계면 영산로 1666",
+        "home_url": "https://mnuwb.mokpo.ac.kr/uat/uia/loginForm.do?site_preference=normal",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJF7aoNH__v-7pTCnNiJy5K-ogBtjL1dsCbg-tTTUaTg&s"
+    },
+    {
+        "university": "대구한의대",
+        "lat": 35.795199,
+        "lng": 128.775598,
+        "location": "대한민국 경상북도 경산시 한의대로 1",
+        "home_url": "https://www.dhu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDXb77ohsg62LFxAR8k97gtCo35dPnSM7wacZmmDv6&s"
+    },
+    {
+        "university": "수원대",
+        "lat": 37.2092017,
+        "lng": 126.9769365,
+        "location": "대한민국 경기도 화성시 봉담읍 와우안길 17",
+        "home_url": "https://www.suwon.ac.kr/index.html?menuno=593",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIse6sbNlR8SviT71tNjK4pp8CIU9Ri3mM1xH3mXyydw&s"
+    },
+    {
+        "university": "꽃동네대",
+        "lat": 36.5223071,
+        "lng": 127.4013327,
+        "location": "대한민국 충청북도 청주시 서원구 현도면 상삼길 133",
+        "home_url": "https://www.kkot.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3juRgibZUki7i8G1LH7OugG174v8WR9KE8P2kdvN6A&s"
+    },
+    {
+        "university": "대전신학대",
+        "lat": 36.3500705,
+        "lng": 127.4235662,
+        "location": "대한민국 대전광역시 대덕구 한남로 41",
+        "home_url": "https://www.daejeon.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCM1QSHPq7dpUQKxb1cY59Qa0l0lXC-wdEqYK5mz7j&s"
+    },
+    {
+        "university": "전주대",
+        "lat": 35.8138624,
+        "lng": 127.0901078,
+        "location": "대한민국 전라북도 전주시 완산구 천잠로 303",
+        "home_url": "https://www.jj.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGHcuePuIM2fdOe9dIVrjsats23NC_vVJAP_WuCK-Orw&s"
+    },
+    {
+        "university": "포항공과대",
+        "lat": 36.0138857,
+        "lng": 129.3231836,
+        "location": "대한민국 경상북도 포항시 남구 청암로 77",
+        "home_url": "https://www.postech.ac.kr/major-websites/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlsSedn7JdbP5VVVEvlR6HcfouIlO_AsKXTQEPOXHrg&s"
+    },
+    {
+        "university": "한국교원대",
+        "lat": 36.6083563,
+        "lng": 127.3582209,
+        "location": "대한민국 충청북도 청주시 흥덕구 강내면 태성탑연로 250",
+        "home_url": "https://www.knue.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU-tRgT31-mUlz5FwKMwdOvfJxMhdJwuYdHcWAlDeOiw&s"
+    },
+    {
+        "university": "경찰대학",
+        "lat": 36.74902890000001,
+        "lng": 126.9565917,
+        "location": "대한민국 충청남도 아산시 신창면 황산길 100-50",
+        "home_url": "https://www.police.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXurDPBknHK2R4stu5ZQsY5e0Hj8EsNyfgHyPNyV7m1w&s"
+    },
+    {
+        "university": "건국대(글로컬)",
+        "lat": 36.9494546,
+        "lng": 127.9083146,
+        "location": "대한민국 충청북도 충주시 충원대로 268",
+        "home_url": "https://m.kku.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBcIsb7zeo269ZB8paYZqocsWs0_aXaWoTXqR5i6liHg&s"
+    },
+    {
+        "university": "전북대(전주)",
+        "lat": 35.8468171,
+        "lng": 127.1299221,
+        "location": "대한민국 전라북도 전주시 덕진구 백제대로 567",
+        "home_url": "http://www.jbnu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCtwVGzTm6n87m1zwkydxGrJK6ge9JKHdUCw0VmFvhzQ&s"
+    },
+    {
+        "university": "감리교신학대",
+        "lat": 37.5676455,
+        "lng": 126.96161,
+        "location": "대한민국 서울특별시 서대문구 냉천동 31",
+        "home_url": "https://ko.wikipedia.org/wiki/%EA%B0%90%EB%A6%AC%EA%B5%90%EC%8B%A0%ED%95%99%EB%8C%80%ED%95%99%EA%B5%90",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpeoYeDoC0FuCzEB5yQmEbN2b5-kf40rtJCrf2_oKDWQ&s"
+    },
+    {
+        "university": "연세대(미래)",
+        "lat": 37.2799875,
+        "lng": 127.9016591,
+        "location": "대한민국 강원도 원주시 흥업면 연세대길 1",
+        "home_url": "https://www.yonsei.ac.kr/wj/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVrhxj4C9oNveCpbwpzKA3snWbg295OwkZJw3Ma11W4Q&s"
+    },
+    {
+        "university": "중원대",
+        "lat": 36.8188286,
+        "lng": 127.7994947,
+        "location": "대한민국 충청북도 괴산군 괴산읍 문무로 85",
+        "home_url": "http://www.jwu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwKREbsj8vMFsZdDXoZjphw08sdBRoyqQQIrO7dSeTbQ&s"
+    },
+    {
+        "university": "위덕대",
+        "lat": 36.0152355,
+        "lng": 129.2841375,
+        "location": "대한민국 경상북도 경주시",
+        "home_url": "https://www.uu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZZZjBTZyrn-pcjxUgWiYthmyiwv0RshdY0hRRp9rxvw&s"
+    },
+    {
+        "university": "한양대(서울)",
+        "lat": 37.5571759,
+        "lng": 127.0454092,
+        "location": "대한민국 서울특별시 성동구 왕십리로 222",
+        "home_url": "https://www.hanyang.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-dZAijfyfM6mc2Lo2GFNwUJjwlBZvdVMYqQhSc5vYDw&s"
+    },
+    {
+        "university": "우송대",
+        "lat": 36.3344412,
+        "lng": 127.451952,
+        "location": "대한민국 대전광역시 동구 백룡로 59",
+        "home_url": "https://www.wsu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUEzAjrgNDLTSFeBr2JUPwLWvAp0cZ72NAI70DjOnt5g&s"
+    },
+    {
+        "university": "청운대(인천)",
+        "lat": 37.4716247,
+        "lng": 126.6606421,
+        "location": "대한민국 인천광역시 미추홀구 숙골로 113",
+        "home_url": "http://www.chungwoon.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoNytV8uQOV6ngSYLP5pDW7HUtBlE84naRR7ZyigAzZw&s"
+    },
+    {
+        "university": "목포가톨릭대",
+        "lat": 34.8268,
+        "lng": 126.4192058,
+        "location": "대한민국 전라남도 목포시 영산로 697",
+        "home_url": "https://www.mcu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwDnT0S-GSA5qO_VGw57xi2AZWmyT0iVRAfzlhH2VBAQ&s"
+    },
+    {
+        "university": "한국교통대(의왕)",
+        "lat": 37.3624626,
+        "lng": 126.9896996,
+        "location": "대한민국 경기도 의왕시",
+        "home_url": "https://www.ut.ac.kr/kor/sub06_04_02_03.do",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfvo15hOWhsMg37ofOKh4uwLPOPy-h_S-EdPiKF9QwA&s"
+    },
+    {
+        "university": "강원대(춘천)",
+        "lat": 37.8897796,
+        "lng": 127.7398952,
+        "location": "대한민국 강원도 춘천시",
+        "home_url": "https://www.kangwon.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm481ZbDuPEjKQ3Rv8LnoM_rAlPS8594oMsK8pfTAKcg&s"
+    },
+    {
+        "university": "청주교대",
+        "lat": 36.6161384,
+        "lng": 127.4846008,
+        "location": "대한민국 충청북도 청주시 서원구 청남로 2065",
+        "home_url": "https://www.cje.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjbtG58El98uo50pPkJ4f_rPihGABBzlB2CaC5JN3aw&s"
+    },
+    {
+        "university": "루터대",
+        "lat": 37.2652684,
+        "lng": 127.1131593,
+        "location": "대한민국 경기도 용인시 기흥구 금화로82번길 20",
+        "home_url": "http://ltu.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe8E_JXBfhxQi9N2U6-yZf5j-T7ljB6-wuYDUbN9HxRg&s"
+    },
+    {
+        "university": "숙명여대",
+        "lat": 37.54647500000001,
+        "lng": 126.9646916,
+        "location": "대한민국 서울특별시 용산구 청파로47길 100",
+        "home_url": "https://www.sookmyung.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjK63bzULTnzKwPIje05TmqVkRrNftHHsqVKx42g_iw&s"
+    },
+    {
+        "university": "안동대",
+        "lat": 36.5419567,
+        "lng": 128.7969108,
+        "location": "대한민국 경상북도 안동시 경동로 1375",
+        "home_url": "https://www.andong.ac.kr/",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Cdy8ojNedRRoW4Y5Vee4Zl9xES11_NlORsJQLIUEAw&s"
+    }
+]
